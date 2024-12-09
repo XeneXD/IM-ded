@@ -33,6 +33,6 @@ insert into employee( empID, empLastName, empFirstName, empGender, depID, salary
 
 select * from department;
 select * from employee;
-
+call IncreaseSalary();
 
 
